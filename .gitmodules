@@ -1,0 +1,3 @@
+[submodule "kicad-coil-plugins"]
+	path = kicad-coil-plugins
+	url = https://github.com/atomic14/kicad-coil-plugins.git
