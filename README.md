@@ -8,8 +8,8 @@ Bare PCB Pictures:
 
 Completed Dual PCB Stator, center rotor motor
 
-![PCB_Dual_T](media/construction/PCB_MOTOR_DUAL_TOP.png)
-![PCB_Dual_S](media/construction/PCB_MOTOR_DUAL_SIDE.png)
+![PCB_Dual_T](Media/construction/PCB_MOTOR_DUAL_TOP.png)
+![PCB_Dual_S](Media/construction/PCB_MOTOR_DUAL_SIDE.png)
 
 ## Media
 
